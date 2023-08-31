@@ -1,8 +1,20 @@
-# React + Vite
+# My React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This project is my professional portfolio. This allows me to showcase all the projects I have worked on, in one place. Built with React. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Installation
+
+N/A
+
+## Usage
+
+In order to view my previous projects, click on the "Portfolio" page. This page will show you some of my previous projects. Then, you can click ant project's title, a new tab will be opened with the relevant project. 
+
+![My portfolio] (https://cheerful-hummingbird-e3a460.netlify.app/)
+
+
+
+

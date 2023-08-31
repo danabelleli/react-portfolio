@@ -1,7 +1,7 @@
 export default function About() {
     return (
         <div className="flex justify-center space-x-20 py-40 my-15">
-            <div className="">
+            <div>
                 <h1 className="text-7xl font-bold capitalize">hello, i'm dana</h1>
                 <h2 className="text-5xl capitalize mt-5">a full stack <span className="">web developer</span></h2>
             </div>
